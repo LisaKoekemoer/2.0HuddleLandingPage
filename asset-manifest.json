@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/2.0HuddleLandingPage/static/css/main.71fa5bc4.css",
+    "main.js": "/2.0HuddleLandingPage/static/js/main.c5114be0.js",
+    "static/js/453.b4389fb5.chunk.js": "/2.0HuddleLandingPage/static/js/453.b4389fb5.chunk.js",
+    "static/media/illustration-flowing-conversation.svg": "/2.0HuddleLandingPage/static/media/illustration-flowing-conversation.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/2.0HuddleLandingPage/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/illustration-grow-together.svg": "/2.0HuddleLandingPage/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/footer-logo.svg": "/2.0HuddleLandingPage/static/media/footer-logo.f204db3bc968b4461ccc437752c9fe8d.svg",
+    "static/media/logo.svg": "/2.0HuddleLandingPage/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/screen-mockups.svg": "/2.0HuddleLandingPage/static/media/screen-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "static/media/icon-communities.svg": "/2.0HuddleLandingPage/static/media/icon-communities.e889ff65d255a5e94c8edc7eaa66e423.svg",
+    "static/media/icon-messages.svg": "/2.0HuddleLandingPage/static/media/icon-messages.a93f061b7c60758bb4ba41887ad0ff20.svg",
+    "index.html": "/2.0HuddleLandingPage/index.html",
+    "static/media/bg-section-bottom-desktop-2.svg": "/2.0HuddleLandingPage/static/media/bg-section-bottom-desktop-2.d3aceda96f2c01c6bbab.svg",
+    "static/media/bg-section-top-desktop-2.svg": "/2.0HuddleLandingPage/static/media/bg-section-top-desktop-2.56f9794a3f455baf1f9f.svg",
+    "static/media/bg-section-top-mobile-2.svg": "/2.0HuddleLandingPage/static/media/bg-section-top-mobile-2.d29990820f2d3c695e49.svg",
+    "static/media/bg-section-bottom-desktop-1.svg": "/2.0HuddleLandingPage/static/media/bg-section-bottom-desktop-1.749314bcb6b45ecfe1ff.svg",
+    "static/media/bg-section-bottom-mobile-2.svg": "/2.0HuddleLandingPage/static/media/bg-section-bottom-mobile-2.4b1fd5de0236cb5c2e3f.svg",
+    "static/media/bg-section-top-desktop-1.svg": "/2.0HuddleLandingPage/static/media/bg-section-top-desktop-1.d6d9d44b00bbb80d5065.svg",
+    "static/media/bg-section-top-mobile-1.svg": "/2.0HuddleLandingPage/static/media/bg-section-top-mobile-1.35938076e9b16b528c0c.svg",
+    "static/media/bg-section-bottom-mobile-1.svg": "/2.0HuddleLandingPage/static/media/bg-section-bottom-mobile-1.a52244c488e92ec187f7.svg",
+    "static/media/bg-footer-top-desktop.svg": "/2.0HuddleLandingPage/static/media/bg-footer-top-desktop.8c0b6c1db046eed123c2.svg",
+    "static/media/icon-phone.svg": "/2.0HuddleLandingPage/static/media/icon-phone.b85572680e531bcb351c52500ab98420.svg",
+    "static/media/bg-footer-top-mobile.svg": "/2.0HuddleLandingPage/static/media/bg-footer-top-mobile.b80d670ec20965d0e340.svg",
+    "static/media/icon-email.svg": "/2.0HuddleLandingPage/static/media/icon-email.201ea9e2e87effbe720d0f8b77fba022.svg",
+    "main.71fa5bc4.css.map": "/2.0HuddleLandingPage/static/css/main.71fa5bc4.css.map",
+    "main.c5114be0.js.map": "/2.0HuddleLandingPage/static/js/main.c5114be0.js.map",
+    "453.b4389fb5.chunk.js.map": "/2.0HuddleLandingPage/static/js/453.b4389fb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71fa5bc4.css",
+    "static/js/main.c5114be0.js"
+  ]
+}
